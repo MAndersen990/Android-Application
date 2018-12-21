@@ -1,0 +1,1 @@
+This application is a personal project that I am working on over winter break. The goal is to help diabetics manage their blood sugar levels and remind them to retest depending on their readings. It will also provide the relevant information to the user, such as their last reading, their average for the day, week or month, as well as trends and AIC levels. 
