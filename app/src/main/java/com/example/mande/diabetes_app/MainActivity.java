@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
                 RelativeLayout.LayoutParams.WRAP_CONTENT,
                 RelativeLayout.LayoutParams.WRAP_CONTENT
         );
-
+//
         buttonDetails.addRule(RelativeLayout.CENTER_HORIZONTAL);
         buttonDetails.addRule(RelativeLayout.CENTER_VERTICAL);
 
